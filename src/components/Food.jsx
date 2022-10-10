@@ -62,7 +62,7 @@ const Food = () => {
                 className='m-1 border-orange-600 text-orange-600 hover:bg-orange-600 hover:text-white'>50$</button>
                 
                 <button onClick={()=> filterPrice('100$')} 
-                className='m-1 border-orange-600 text-orange-600 hover:bg-orange-600 hover:text-white'>100</button>  
+                className='m-1 border-orange-600 text-orange-600 hover:bg-orange-600 hover:text-white'>100$</button>  
             </div>
         </div>
        </div>
